@@ -1,0 +1,23 @@
+.container-sobre {
+    text-align: center;
+    margin: 6em 5em;
+}
+.sobre__descricao {
+    font-weight: 600;
+    color: #8E2424;
+    
+}
+
+.sobre__titulo {
+    color: #101828;
+    font-size: 48px;
+    font-weight: 600;
+    padding: .6em 0;
+}
+
+.sobre__texto {
+    color: #667085;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
