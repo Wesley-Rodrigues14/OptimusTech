@@ -1,0 +1,42 @@
+.colaboradores {
+    margin-bottom: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.colaboradores-container {
+    text-align: center;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    padding: 3em 2em;
+    width: 85vw;
+}
+
+.colaboradores__descricao {
+    color: #8E2424;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.colaboradores__texto {
+    color: #101828;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 40px;
+    padding: .7em 0;
+}
+
+.dev-nome {
+    color: #101828;
+    font-weight: 500;
+    font-size: 16px;
+    padding: .5em 0;
+}
+
+.dev-sobre {
+    color: #667085;
+    font-weight: 400;
+    font-size: 14px;
+}
