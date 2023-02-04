@@ -37,7 +37,7 @@
     padding-top: 3em;
     max-width: 900;
     display: block;
-    width: 100%;
+    width: 85vw;
     height: auto;
 }
 
@@ -51,7 +51,7 @@
 
 .design__titulo {
     padding-top: 1em;
-    width: 63vw;
+    width: 53vw;
     font-size: 20px;
     font-weight: 500;
     color: #101828;
@@ -62,7 +62,7 @@
     padding: 1.5em 1.2em;
     border: 1px solid #EAECF0;
     border-radius: 16px;
-    width: 60vw;
+    width: 50vw;
 }
 
 .design__card-titulo {

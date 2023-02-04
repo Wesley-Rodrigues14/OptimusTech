@@ -1,5 +1,5 @@
 .colaboradores {
-    margin-bottom: 3em;
+    margin-bottom: 5em;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -10,7 +10,7 @@
     text-align: center;
     background: rgba(196, 25, 25, 0.03);
     border-radius: 16px;
-    padding: 3em 2em;
+    padding: 4.5em 2em;
     width: 80vw;
 }
 
